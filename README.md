@@ -2,7 +2,7 @@
 ### by Sultan Ilyas Arsalillah Yuswan Syah
 
 
-This is an Match Tree game developed for education purposes and as an assignment for Agate Online Academy on Game Programming Batch 3 course.
+This is a Match Tree game developed for education purposes and as an assignment for Agate Online Academy on Game Programming Batch 3 course.
 
 
 
